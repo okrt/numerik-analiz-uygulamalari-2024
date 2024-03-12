@@ -1,0 +1,1 @@
+# numerik-analiz-uygulamalari-2024
